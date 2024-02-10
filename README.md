@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I'm working on linguistic AI and NLP in general
+- Naturally, I love Python, LLMs, spaCy and LangChain 🦜
+
+
 <!--
 **Nadav-Nesher/Nadav-Nesher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm working on linguistic AI and NLP in general
-- Naturally, I love Python, LLMs, spaCy and LangChain 🦜
+- I love Python, LLMs, spaCy and LangChain 🦜
 
 
 <!--
